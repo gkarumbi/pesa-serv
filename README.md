@@ -37,9 +37,9 @@ Simple web framework that implements dynamic roouting and SSL with the help of G
 
 # Current Limitations
 
-The HTML has to be hard coded
+    * The HTML has to be hard coded
 
 # Future Extensions
 
--To implment a django-like templating system
--To implement an ORM similar to Django ORM or SQL Alchemy
+    * To implment a django-like templating system
+    * To implement an ORM similar to Django ORM or SQL Alchemy
